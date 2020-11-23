@@ -155,3 +155,4 @@
         return +str.replace(/\D/g, '');
     }
 }
+export default  slider;
